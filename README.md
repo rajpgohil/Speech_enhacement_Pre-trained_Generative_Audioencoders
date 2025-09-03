@@ -23,6 +23,7 @@ We use:
 │   └── hifigan/            # HiFi-GAN implementation (from bshall/knn-vc) Please clone from https://github.com/bshall/knn-vc.git
 ├── requirements.txt
 └── README.md
+└── download the models from https://github.com/bshall/knn-vc/releases/download/v0.1/prematch_g_02500000.pt
 ```
 
 ---
